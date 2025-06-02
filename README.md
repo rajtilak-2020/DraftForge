@@ -147,4 +147,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - PDF generation by [html2pdf.js](https://ekoopmans.github.io/html2pdf.js)
 
 ---
-Copyright © [K Rajtilak](krajtilak.vercel.app). All rights reserved.
+Copyright © [K Rajtilak](krajtilak.vercle.app). All rights reserved.
